@@ -24,6 +24,10 @@
     background-color: #525252;
 }
 
+.bg-color-personal-info {
+    background-color: green;
+}
+
 /* ------------------------------------------------- Special paddings/margins/text */
 
 h1, h2, h3, h4 {
@@ -203,4 +207,16 @@ header {
 
  #footer-details {
     padding: 20px;
+ }
+
+
+ /* -------------------------------------------------------- Three Reasons */
+
+ .three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+ }
+
+ .three-reasons-heading {
+    margin-bottom: 15px;
  }
